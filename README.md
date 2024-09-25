@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mujtaba
 - 👀 I’m interested in developing web pages and design web pages
-- 🌱 I’m currently learning Data science
+- 🌱 I’m currently pursuing Data science course
 - 💞️ I’m looking to collaborate on social media
 - 📫 How to reach me through instagram @hussain.fr
 - 😄 Pronouns: he
